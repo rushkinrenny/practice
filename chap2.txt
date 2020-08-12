@@ -1,1 +1,2 @@
  I'm discussing about Inheritance
+ getting charater from parent class 

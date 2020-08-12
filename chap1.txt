@@ -1,1 +1,2 @@
 C++ Basic
+Disscuss about varibale data type etc
